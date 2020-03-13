@@ -1,0 +1,15 @@
+El proyecto apunta a realizar una aplicación dedicada al control y seguimiento de la diabetes, enfermedad que poseo y la cual llevo poco controlada.
+La idea es poder llevar un registro de las glucemias, las unidades de insulinas administradas, los alimentos consumidos y las actividades realizadas.
+Debe generar reportes que puedan enviarse fácilmente por mail o imprimirla para la presentar al médico.
+Tendrá un calculador de insulina a aplicar según la glucemia declarada.
+Las alarmas avisarán un día antes (y el mismo día) los turnos y estudios médicos a realizar. Así como también avisar cuándo deben realizarse chequeos.
+Poseerá 2 interfaces, una simple y sencilla para personas de mayor edad o con poco manejo de aplicaciones para el celular, y otra para usuarios más experimentados.
+Contará con un botón que marcará cuando nos ponemos la insulina o tomamos la metformina a modo de recordatorio. Hará promedio de mediciones a pedido.
+Su aspecto será moderno y con carga de perfil. Nombre, apellido, datos de contacto, datos de contacto externos (médicos, familiares, amigos,etc.) Foto.
+Para la versión final busco implementarla como una nueva red social para diabéticos, con el objetivo de convertirla en una aplicación no solo amigable
+con el usuario sino también atractiva y que al usuario lo motive a ser parte de ella. Acercándolo cada vez más a su enfermedad insertándolo en una comunidad
+que pueda ayudarse, compartir experiencias y todo lo que tenga que ver con la diabetes.
+Esta idea no tiene techo de desarrollo pues nuevas variantes irán surgiendo con el tiempo. Deseo tener una aplicación actualizada, que no pierda su standard de calidad
+y que se encuentre en constante crecimiento ofreciendo la mejor experiencia al usuario.
+Su principal implementación será en Android con el enguaje Kotlin, pero también se la podrá utilizar desde un navegador web o desde el escritorio sin conexión a internet.
+Su nombre es DiApp, me gustaba DiabetApp pero ya existe.

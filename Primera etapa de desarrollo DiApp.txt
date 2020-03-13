@@ -1,0 +1,6 @@
+Para la primera etapa de desarrollo busco crear la base de datos y empezar a hacer funcionar la aplicación en Android con ciertos controles básicos 
+para ir probando su funcionamiento. Casillas para completar con las unidades de insulina, glucemia y metformina. Captura de días y horarios de los registros.
+Almacenamiento y procesamiento de datos para los informes.
+Calculador de promedios.
+Envío de mails con reportes.
+Alarmas de aviso de turnos médicos.
